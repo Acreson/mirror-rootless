@@ -1,0 +1,9 @@
+Origin: Acreson「Mirror-Rootless」
+Label: Acreson「Mirror-Rootless」
+Version: 1.1
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Codename: ominousness
+Description: Rootless专属克隆源，解决各种问题的源
+
+

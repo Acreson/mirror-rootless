@@ -1,0 +1,51 @@
+Package: 1
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: acreson
+Depends: mobilesubstrate
+Filename: ./debs/1_1.0_iphoneos-arm64.deb
+Size: 670
+MD5sum: 39851bed46839730d626baf5ac5f6da3
+SHA1: b9d32d523687a8bc61024b943d83b538e238f8ea
+SHA256: 80f8e82e66b6c53e7343ff2db4d26f100656b8d918f8ac64a818cf29460f5000
+Section: System
+Priority: optional
+Description: Rootless专属克隆源，解决各种问题的源
+Author: https://reop.acreson.cn
+Name: A-嘻哈个人克隆源 for Rootless
+
+Package: acreson.rootless.cj.axon
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Installed-Size: 612
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/acreson.rootless.cj.axon_2.0_iphoneos-arm64.deb
+Size: 190670
+MD5sum: 1c6197d3681d5587b15646b9d18bb684
+SHA1: efadfd319d87d47e91e6c56dede019992b100e41
+SHA256: a1b7d24be60a60920dac740beed42aec3af26dca7842452f80b723a3f15dcedc
+Section: Acreson-插件(Tweaks)
+Description: Priority Hub for iOS 15 Rootles.
+Author: Nepeta & Baw Appie & Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: Axon「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: uikittools
+Version: 2.1.3.1
+Architecture: iphoneos-arm64
+Essential: yes
+Maintainer: Procursus Team <support@procurs.us>
+Depends: libiosexec1 (>= 1.2.2)
+Suggests: uikittools-extra (= 2.1.3)
+Filename: ./debs/uikittools_2.1.3.1_iphoneos-arm64.deb
+Size: 78090
+MD5sum: c62ed3ec02c994a85ec5a49d938e19b2
+SHA1: b0877132f23fcd824624656093eb043387ff0398
+SHA256: 43faee11cf1d71407dc18ff51d8484a4990987e0a2b9461ac2c000e837ca8fcc
+Section: Utilities
+Priority: required
+Description: Command line access for UIKit/LaunchServices/CoreServices
+
