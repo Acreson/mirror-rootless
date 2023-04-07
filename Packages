@@ -51,6 +51,25 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: ShowTouch「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: ./debs/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 112586
+MD5sum: cabcb1ceaf49e89606bab0b591d963bb
+SHA1: 8868d74ab18111e7a9f7add6ab07bc61c5457c3a
+SHA256: e0d8db04ca3b6a29dc7e8d53ff689d6d676ebf2826c1b6522b196fe6065fe27d
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Bailey Seymour
+Name: libcolorpicker
+
 Package: uikittools
 Version: 2.1.3.1
 Architecture: iphoneos-arm64
