@@ -51,6 +51,24 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: ShowTouch「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.cj.showtouch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 412
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/acreson.rootless.cj.showtouch_1.1_iphoneos-arm64.deb
+Size: 68760
+MD5sum: c4f995f55e5675d9afe7e988f1a17402
+SHA1: abda799da21b17a2a8fe32bcf70f843be9a1b73a
+SHA256: e4d97f1c48ddc5ccd9e9e99cb807353daf93b17e2d0a3315a6c283447747cb52
+Section: Acreson-插件(Tweaks)
+Description: Shows where you touch the screen for Rootless
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: ShowTouch「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64
