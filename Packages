@@ -87,6 +87,27 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: ShowTouch「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.system.rocketbootstrap
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.rpetrich.rocketbootstrap
+Replaces: com.rpetrich.rocketbootstrap
+Provides: com.rpetrich.rocketbootstrap (= 99)
+Filename: ./debs/acreson.rootless.system.rocketbootstrap_1.0_iphoneos-arm64.deb
+Size: 40148
+MD5sum: ae733d9a2192a82b9ccc3bc1200e8992
+SHA1: 485d7564d5118f65d5aed3652568b73bc3b6fce0
+SHA256: 14bd7b3593dda7840dada0b6d0e8fca18643ca5c7ec501b74300459a1fe913ac
+Section: Acreson-系统(System)
+Priority: optional
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: RocketBootstrap「Rootless」
+Sponsor: Acreson
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64
