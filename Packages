@@ -105,6 +105,27 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: ShowTouch「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.system.preferenceloader
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: ArtikusHG,zp
+Installed-Size: 256
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.6)
+Filename: ./debs/acreson.rootless.system.preferenceloader_1.2.1_iphoneos-arm64.deb
+Size: 29212
+MD5sum: 92f9176952657f102e1ec3cfe8f42b2c
+SHA1: 5ce4706ed2d071d5a1d413ed8ebf319c7bdd774f
+SHA256: c8c5d93e11deeb2814484cac24ab977bd289f0aa9a1bd1d8c4f12bc6e3a5298a
+Section: Acreson-系统(System)
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: PreferenceLoader「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.system.rocketbootstrap
 Version: 1.0
 Architecture: iphoneos-arm64
