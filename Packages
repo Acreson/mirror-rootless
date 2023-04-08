@@ -108,6 +108,44 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: RocketBootstrap「Rootless」
 Sponsor: Acreson
 
+Package: acreson.rootless.tool.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 15.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/acreson.rootless.tool.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 3422752
+MD5sum: 49c577367be739130cc5a9a5ab1201a5
+SHA1: ff998213922aab0d9afc0e2206eac08de8110d7b
+SHA256: a284db122ae248bac7aed932fcada7d743e9547a008615bd48c7aa1f4ae53852
+Section: Acreson-工具(Utilities)
+Description: The first real iOS system cleanup and management utility for rootless
+Author: Ivano Bilenchi & Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: iCleaner Pro「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: applist
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: `du -ks usr|cut -f 1`
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.rpetrich.rocketbootstrap (>= 1.0.9~beta3)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/applist_1.6_iphoneos-arm64.deb
+Size: 187692
+MD5sum: 7701b604d11c2790a94966fb9c21ce0d
+SHA1: db59f2e79a75c4bc96421f53685b29f6a58417c8
+SHA256: 25b00f539bb32c0bc76dc2716dec03d0ec4e36e1e7b203dcdd9af0384d77a644
+Section: Acreson-系统(System)
+Description: Allow extensions to read the list of installed apps for rootless.
+Author: Ryan Petrich <rpetrich@gmail.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: AppList「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64
@@ -142,4 +180,21 @@ SHA256: 43faee11cf1d71407dc18ff51d8484a4990987e0a2b9461ac2c000e837ca8fcc
 Section: Utilities
 Priority: required
 Description: Command line access for UIKit/LaunchServices/CoreServices
+
+Package: ws.hbang.alderis
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/ws.hbang.alderis_2.0_iphoneos-arm64.deb
+Size: 676912
+MD5sum: 46fe7020d8be0c95194f0059e5505f93
+SHA1: bff40bdc85daabb5faea9dfea166eaa62809a59e
+SHA256: 35c72795b5a523af986af1771b8a179cb24a908e8ce3db56019e487222e9cee3
+Section: Acreson-依赖(Depends)
+Description: Color Alderis
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: Alderis Color Picker「Rootless」
+Sponsor: Acreson <342080124@qq.com>
 
