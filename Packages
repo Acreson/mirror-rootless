@@ -51,6 +51,24 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: Choicy「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.cj.goodwifi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson
+Installed-Size: 336
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.rootless.cj.goodwifi_1.0_iphoneos-arm64.deb
+Size: 52916
+MD5sum: d1e013c590afab77c1446b363605d3f5
+SHA1: 66e3934826a5d0b07b631df18130c5abc35f50d8
+SHA256: 3a7505f250263a4ee72827545a0d93617f75547721949ebb5feb354343c86b29
+Section: Acreson-插件(Tweaks)
+Description: WIFI设置显示MAC地址、IP、已知网络信息(SSID和密码)
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: GoodWiFi「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.cj.showtouch
 Version: 1.0.3
 Architecture: iphoneos-arm64
