@@ -33,24 +33,6 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: Axon「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
-Package: acreson.rootless.cj.choicy
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 1108
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/acreson.rootless.cj.choicy_1.5_iphoneos-arm64.deb
-Size: 247692
-MD5sum: f3933facf4635e81d495a55f7e0a7c02
-SHA1: 13a2cf212b277e548b8f0c9553f2228ff374973f
-SHA256: 42d82a904a9f730721875b52a077dcfa47fa80e99424c6d891aac2eef669f311
-Section: Acreson-插件(Tweaks)
-Description: Advanced Tweak Configuration!
-Author: Acreson
-Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
-Name: Choicy「Rootless」
-Sponsor: Acreson <342080124@qq.com>
-
 Package: acreson.rootless.cj.goodwifi
 Version: 1.0
 Architecture: iphoneos-arm64
