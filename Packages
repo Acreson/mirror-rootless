@@ -203,6 +203,29 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: AppList「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: ellekit
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: Procursus Team <support@procurs.us>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.4.1_iphoneos-arm64.deb
+Size: 724004
+MD5sum: 4323404349c1c0adf6dc3b2a3ceca859
+SHA1: 000b61fc785596c459b4a9602e0c525db3548fad
+SHA256: 8ca05faeb45c9e69d3bed0999180cd025a1183957e59b95fa4ea40b03a95e66a
+Section: Acreson-系统(System)
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ Currently NO SAFE MODE INCLUDED! Install at your own risk!
+ ElleKit tweak injection libraries and loader. Currently in beta,
+ does not currently include a LaunchDaemon.
+Author: Evelyn
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: ElleKit (Beta)「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64
