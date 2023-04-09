@@ -14,6 +14,25 @@ Description: Rootless专属克隆源，解决各种问题的源
 Author: https://reop.acreson.cn
 Name: A-嘻哈个人克隆源 for Rootless
 
+Package: acreson.rootless.cj.atria
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 724
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/acreson.rootless.cj.atria_2.0_iphoneos-arm64.deb
+Size: 201156
+MD5sum: ed7b636a7a3f0f4bb830b3d14b03071c
+SHA1: c9d344b7044d42666adac5568dd794f30be4a06d
+SHA256: ce92342fccb290adc9e828be14ef669ddec55cde25c5c8de65a6decae3c46431
+Section: Acreson-插件(Tweaks)
+Description: 桌面自定义布局，内置中文.
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: Atria_CN「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.cj.axon
 Version: 2.0
 Architecture: iphoneos-arm64
