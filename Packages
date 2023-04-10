@@ -52,6 +52,25 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: Axon「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.cj.choicymini
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 240
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: acreson.rootless.cj.choicy, com.opa334.choicy
+Filename: ./debs/acreson.rootless.cj.choicymini_1.5.0_iphoneos-arm64.deb
+Size: 30044
+MD5sum: 6e37c4af1878887fafb54ffe64d8d437
+SHA1: fa747af428f4638e84dd30717a1459ba4054f363
+SHA256: 9e9cc14835758286820d4832b227eb3cbbb8f4492847e6fdd6bff5ec660a99cd
+Section: Acreson-插件(Tweaks)
+Description: Choicy精简版，只保留的桌面3D Touch菜单触发“禁止注入插件”启动APP功能，由于Fugu15的特殊不稳定性，建议使用这个版本。
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: ChoicyMini「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.cj.goodwifi
 Version: 1.0
 Architecture: iphoneos-arm64
