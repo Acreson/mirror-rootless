@@ -90,6 +90,24 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: ChoicyMini「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.cj.gestures15
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/acreson.rootless.cj.gestures15_1.0_iphoneos-arm64.deb
+Size: 8086
+MD5sum: 25339df090c6d8382a7427833b4322a8
+SHA1: 2d78bd8799ac7ca8bd494ea587cc048f47412e61
+SHA256: ad17cc626218447c326384e196fbc5b6ee327f280ec90a49f52cdf2f01003dae
+Section: Acreson-插件(Tweaks)
+Description: iPhoneX手势和iPad状态栏，简易版无设置项
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: Gestures15「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.cj.goodwifi
 Version: 1.0
 Architecture: iphoneos-arm64
