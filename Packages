@@ -108,6 +108,25 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: Gestures15「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.rootless.cj.gestures15full
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Conflicts: acreson.rootless.cj.gestures15
+Filename: ./debs/acreson.rootless.cj.gestures15full_4.0_iphoneos-arm64.deb
+Size: 215754
+MD5sum: 401ae0fc4a3e4de58f29d47add9856f9
+SHA1: e2fdfcf4784d0bf2476ba75a7fe86d65f6944969
+SHA256: 51f11ad2205eda187d9b2d69a51bf5d585485278f16a9b70ddd6f34293559776
+Section: Acreson-插件(Tweaks)
+Description: iPad状态和X手势，更多细节进设置调整，与MINI版冲突。应群友要求修改后重新上架，
+Author: Acreson <342080124@qq.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: Gesturesi15_Full「Rootless」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.cj.goodwifi
 Version: 1.0
 Architecture: iphoneos-arm64
