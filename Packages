@@ -223,6 +223,20 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: AppList「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: oldabi
+Version: 0.2.3
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/oldabi_0.2.3.deb
+Size: 8258
+MD5sum: c01e1c9b99f10ccc869ce83caa764b8d
+SHA1: 24bdd1be5dd6c92379c67e3d2b404f1fd9872637
+SHA256: 276e3b4110f719b6985783fc0b983d5b40b2d8192ae81eff8e902071cba9a093
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64
