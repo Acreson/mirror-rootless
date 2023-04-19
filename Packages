@@ -223,6 +223,46 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: AppList「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: ellekit
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.4.3_iphoneos-arm64.deb
+Size: 727166
+MD5sum: 5fad12b9ff537ead46292ba2714adce0
+SHA1: 5306a81cbcf8e1bd5de44c8838cb854245a372d6
+SHA256: db9411ae880d7ea1baec48a73d29f8d27df4242cecd83e5bf776367917ad4ac2
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ ElleKit tweak injection libraries and loader. Currently in beta.
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
+Package: ellekit
+Version: 0.4.5
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.4.5_iphoneos-arm64.deb
+Size: 710264
+MD5sum: 275505f414114533a8685ff5028be86d
+SHA1: a4c0388a609c11edc64fe251c34ee4b69c6c4946
+SHA256: 28e2f2ae472f8538ffc8f6a5d14f9f695b03ab39e589d9596fc6776efa6b3d08
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ ElleKit tweak injection libraries and loader. Currently in beta.
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
 Package: oldabi
 Version: 0.2.3
 Architecture: iphoneos-arm64
