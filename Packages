@@ -244,6 +244,49 @@ Dev: creaturecoding
 Name: libCSColorPicker
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.opa334.altlist
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 256
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
+Size: 45750
+MD5sum: d35e6e321be1f921c2dd995f0b678d27
+SHA1: 3efbef8dcc07cbaad62eeab93f6aba897bac53a7
+SHA256: 3db3d47bc65f0bc25d5aab240525fba78cd1d133815b18adf92dcb09e38d8edc
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Description: A modern AppList alternative
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Dev: opa334
+Name: AltList
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.opa334.libsandy
+Version: 1.0.5-2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 345
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.0.5-2_iphoneos-arm64.deb
+Size: 21128
+MD5sum: dc1c578bdfab4ad2c119cd7225ed2f75
+SHA1: 60ba9a19d11ff3662151dfe6435fd63d29e4c487
+SHA256: dec311d57abd6499cb108236f0f6158c9d1f9289e476c16c3c6414f00aa8c5a0
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Description: Securely extend the sandbox of system processes and user applications
+Tag: purpose::extension, role::developer
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Dev: opa334
+Name: libSandy
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: ellekit
 Version: 0.4.3
 Architecture: iphoneos-arm64
