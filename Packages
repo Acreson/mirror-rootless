@@ -223,6 +223,27 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: AppList「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 502
+Depends: firmware (>= 7.0), applist
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
+Size: 116110
+MD5sum: 3448f0e4896179940567aba71a6c1d0a
+SHA1: d5601fbc30688e5c6ca1f7a797c42dedb15ab4f1
+SHA256: 1ef0d427f0fd24b1ca00bebaf958f086812bce17078343a4596965210185ec90
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
+Description: A minimal color picker library for developers
+Tag: purpose::library, cydia::obsolete, compatible::ios10, compatible::ios11, compatible::ios12
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
+Dev: creaturecoding
+Name: libCSColorPicker
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: ellekit
 Version: 0.4.3
 Architecture: iphoneos-arm64
