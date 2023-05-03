@@ -252,9 +252,9 @@ Installed-Size: 256
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
 Size: 45750
-MD5sum: d35e6e321be1f921c2dd995f0b678d27
-SHA1: 3efbef8dcc07cbaad62eeab93f6aba897bac53a7
-SHA256: 3db3d47bc65f0bc25d5aab240525fba78cd1d133815b18adf92dcb09e38d8edc
+MD5sum: 519ce9faf4c6b74839591b4f91e5a24b
+SHA1: a7c3d552d9e676b6fb2c34602514ac15abb0ee68
+SHA256: 65190f8139c5bebcae4107f666044f83c381990b787ca4b89e4cbbb7c49d0a16
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Description: A modern AppList alternative
