@@ -371,6 +371,26 @@ Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
 Name: ElleKit
 
+Package: ellekit
+Version: 0.6-1
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.6-1.deb
+Size: 498818
+MD5sum: b9c604e5ebe92660f2530962cf2a2853
+SHA1: 3167b26d35c72e71d409def3b20d4252727c2d1b
+SHA256: b71828f674974db69b3b1fd25c38f38238c14f609316385e22cce7b1dae8f92d
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ Currently in beta.
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
 Package: oldabi
 Version: 0.2.3
 Architecture: iphoneos-arm64
