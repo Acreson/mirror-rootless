@@ -14,6 +14,25 @@ Description: Rootless专属克隆源，解决各种问题的源
 Author: https://reop.acreson.cn
 Name: A-嘻哈个人克隆源 for Rootless
 
+Package: acreson.cj.pulloverpro.rootless
+Version: 2.1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3180
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/acreson.cj.pulloverpro.rootless_2.1.2-3_iphoneos-arm64.deb
+Size: 1170470
+MD5sum: fd0b8aa1c1547b07988f2b2399738197
+SHA1: 69f01ffae4b3a053ef66c4834c9a140e5baa14a1
+SHA256: 5ce2fb947b2b52cbad6a767c67d3f3fc68daa8f730c880d2dfb4fbc701bc0de3
+Section: Acreson-插件(Tweaks)
+Description: A better way to multitask! Fix support for iOS15
+Author: c1d3r
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: PullOver Pro-Rootless「快捷分屏」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.rootless.cj.atria
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -403,6 +422,26 @@ Size: 398908
 MD5sum: d366f9df60cad404581793e12918a00b
 SHA1: a19a310f11bcafcf27703b264743215c0162cf68
 SHA256: 8f7bda0139712dae562abedad096fdfda9b0da8285c9917e21bc656e3d51e0a3
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ Currently in beta.
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
+Package: ellekit
+Version: 0.6.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.6.3_iphoneos-arm64.deb
+Size: 726288
+MD5sum: 4f7158b38bd1508e4d1cc7064a456455
+SHA1: e1bef8f1804e0a2a36d11ce842a58b73e909e138
+SHA256: a220d53bd1356db56dc1c144c79fe48c814aa333cbdff0aa8ef32545fd13f75a
 Section: Tweak Injection
 Priority: optional
 Description: ElleKit tweak injection libraries and loader
