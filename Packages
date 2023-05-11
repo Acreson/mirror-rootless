@@ -22,15 +22,15 @@ Installed-Size: 724
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
 Filename: ./debs/acreson.cj.atria.rootless_2.2_iphoneos-arm64.deb
-Size: 201222
-MD5sum: b6f4b85fb8b1dee7921c8ae78cdee939
-SHA1: b1d4830163af43622a768b8b0fdc7aca81cd6a40
-SHA256: 87abe3b0e67b69c8a463085a07885cf4abae4bbec94286a058db594477c986e4
+Size: 201224
+MD5sum: c7859932554b9d0088eb9b2418e449a5
+SHA1: d881a8a27392f83e7647eabe709cbd699da5a2e5
+SHA256: c2a679c14a8aa20608a765b7c6189d896e2d50f0358aa804cd652c84b83d1e6f
 Section: Acreson-插件(Tweaks)
 Description: 桌面自定义布局，内置中文.
 Author: Acreson
 Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
-Name: Atria_CN「Rootless」
+Name: Atria_CN-Rootless「桌面布局」
 Sponsor: Acreson <342080124@qq.com>
 
 Package: acreson.cj.pulloverpro.rootless
