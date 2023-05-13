@@ -562,3 +562,21 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 Name: Alderis Color Picker「Rootless」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: ws.hbang.alderis
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 2528
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debs/ws.hbang.alderis_2.2_iphoneos-arm64.deb
+Size: 348932
+MD5sum: b5739881d490c12934b62f60d6ea7296
+SHA1: 45c640d345ffbbfbabe65bd7734022bb7e34745a
+SHA256: 224090c9c8f41819e0db156d58748bc14464fec9e652db33bc3c80f725bbcfc4
+Section: Acreson-依赖(Depends)
+Description: 颜色库
+Author: Acreson
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+Name: Alderis Color Picker-Rootless「颜色库」
+Sponsor: Acreson <342080124@qq.com>
+
